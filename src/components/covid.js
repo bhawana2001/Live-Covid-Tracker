@@ -40,7 +40,7 @@ const Covid = () => {
                     <li className="card">
                         <div className="card_main_2">
                             <div className="card_inner">
-                                <p className="card_name"><span> TOTAL </span>RECOVERD</p>
+                                <p className="card_name"><span> TOTAL </span>RECOVERED</p>
                                 <p className="card_total_small">{data.recovered}</p>
                             </div>
                         </div>
