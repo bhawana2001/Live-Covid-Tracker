@@ -1,0 +1,111 @@
+.mainbody {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh;
+    align-items: center;
+    
+}
+.main{
+    background-color: black;
+}
+h1, p, h2 {
+    color: white;
+    text-align: center;
+}
+
+ul{
+    list-style-type:none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card_main_1 {
+    height: 200px;
+    width: 350px;
+    margin: 50px;
+    align-items: center;
+    background-color: skyblue;
+}
+.card_main_1:hover{
+    background-color: aqua;
+}
+
+.card_main_2 {
+    height: 200px;
+    width: 350px;
+    margin:50px;
+    align-items: center;
+    background-color: green;
+}
+.card_main_2:hover{
+    background-color: rgb(2, 83, 2)
+}
+
+.card_main_3 {
+    height: 200px;
+    width: 350px;
+    margin: 50px;
+    align-items: center;
+    background-color: gold;
+}
+
+.card_main_3:hover{
+    background-color: brown;
+}
+
+.card_main_4 {
+    height: 200px;
+    width: 350px;
+    margin: 50px;
+    align-items: center;
+    background-color: orange;
+}
+.card_main_4:hover{
+    background-color: purple;
+}
+.card_main_5 {
+    height: 200px;
+    width: 350px;
+    margin: 50px;
+    align-items: center;
+    background-color: lightblue;
+}
+.card_main_5:hover{
+    background-color: rgb(7, 121, 121);
+}
+.card_main_6 {
+    height: 200px;
+    width: 350px;
+    margin: 50px;
+    align-items: center;
+    background-color: violet;
+}
+.card_main_6:hover{
+    background-color: rgb(134, 56, 153);
+}
+
+
+.card_name{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.card_name span {
+    font-size: 15px;
+}
+
+.card_total {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.card_total_small{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size:40px;
+    text-shadow: 3px 2px 4px #000000;
+}
